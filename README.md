@@ -38,3 +38,7 @@ Run it until the **STOP** cell.
 Make the change suggested in [./local/custom.ts](./local/custom.ts) then proceed.  
 
 You can see that the method was updated while the class instance data remained unchanged.  
+
+## Ref
+
+Cf. <https://github.com/denoland/deno/issues/24660>
